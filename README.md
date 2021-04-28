@@ -3,7 +3,7 @@
 
 $pkg install python 
 
-git clone https://github.com/Mr-AtackerXD
+git clone https://github.com/Mr-AtackerXD/Crackv2
 
 $pip install requests
 
